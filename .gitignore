@@ -43,3 +43,17 @@ yarn-error.log*
 /drupal/web/sites/default/settings.local.php
 /drupal-*
 /local-next-drupal
+.next/
+dist/
+build/
+out/
+.venv/
+venv/
+__pycache__/
+.mypy_cache/
+.turbo/
+coverage/
+*.log
+.env.*
+!.env.example
+!.env.*.example
